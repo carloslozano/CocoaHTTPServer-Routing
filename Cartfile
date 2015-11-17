@@ -1,2 +1,3 @@
-#github "chbeer/CocoaHTTPServer"
-git "/Users/christian/Development/Libraries/3rdparty/CocoaHTTPServer" "master"
+github "CocoaLumberjack/CocoaLumberjack" == 2.2.0
+github "carloslozano/CocoaAsyncSocket" "master"
+github "carloslozano/CocoaHTTPServer" "master"

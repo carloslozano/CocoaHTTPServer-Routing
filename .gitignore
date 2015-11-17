@@ -6,3 +6,10 @@
 #
 # Pods/
 
+
+Cartfile.resolved
+
+Carthage/
+
+DerivedData/
+CocoaHTTPServerRouting.framework.zip

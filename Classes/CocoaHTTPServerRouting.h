@@ -6,8 +6,6 @@
 //  Copyright © 2015 Christian Beer'. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-
 //! Project version number for CocoaHTTPServer-Routing.
 FOUNDATION_EXPORT double CocoaHTTPServer_RoutingVersionNumber;
 
@@ -15,7 +13,7 @@ FOUNDATION_EXPORT double CocoaHTTPServer_RoutingVersionNumber;
 FOUNDATION_EXPORT const unsigned char CocoaHTTPServer_RoutingVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <CocoaHTTPServer_Routing/PublicHeader.h>
-
+#import <CocoaHTTPServer/WebSocket.h>
 #import "HTTPRouteDefinition.h"
 #import "HTTPRouteMapping.h"
 #import "RouteDefinition.h"

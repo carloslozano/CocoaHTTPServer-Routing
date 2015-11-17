@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import <CocoaHTTPServer/WebSocket.h>
 @interface RouteDefinition : NSObject
 
 @property (nonatomic, copy)     NSString              *path;
